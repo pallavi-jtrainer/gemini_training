@@ -1,0 +1,42 @@
+Labs List
+Labs on Google Cloud Fundamentals
+1. A Tour of Google Cloud Hands-on Labs
+2. Create a Virtual Machine
+3. Compute Engine: Qwik Start - Windows
+4. VPC Networking Fundamentals
+5. Create and Connect to Cloud SQL for MySQL Resources
+
+Day 1
+1. Get Started with Virtual Private Cloud Networking and Compute Engine
+2. Google Cloud Fundamentals: Getting Started with Cloud Marketplace
+3. Google Cloud Fundamentals: Getting Started with Cloud Storage and Cloud SQL
+4. Hello Cloud Run
+
+Day 2
+1. Getting Started with the Agent Studio User Interface
+2. Getting Started with Gen AI Library + Gemini API in Gemini platform
+3. Advanced Prompt Architectures
+
+Day 3
+1. Design Prompts in Agent Platform
+2. Safeguarding with Agent Platform Gemini API
+3. Introduction to Gemini Enterprise
+
+Day 4
+1. Build an LLM and RAG-based Chat Application with AlloyDB and Agent Platform
+2. Create a chat and voice FAQ bot with Conversational Agent Playbooks and Data Stores
+3. Get Started with Agent Development Kit (ADK)
+4. Create a Conversational Agent Playbook that connects to an unstructured data store tool
+5. Build an AI Agent and Configure an MCP Server on Cloud Run
+
+
+Courses List
+https://www.skills.google/paths/118/course_templates/536
+https://www.skills.google/paths/118/course_templates/539
+https://www.skills.google/paths/118/course_templates/388
+https://www.skills.google/course_templates/1268?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=106704513
+https://www.skills.google/paths/1951/course_templates/1267
+https://www.skills.google/paths/3546
+
+
+
